@@ -87,4 +87,4 @@ Acesse: `http://localhost:5000/swagger`
 
 ## ✍️ Autor
 
-Desenvolvido por Giovanna ✨
+Desenvolvido por Igor Akira ✨
